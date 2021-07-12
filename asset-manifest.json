@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clock/static/css/main.4c9d8af8.chunk.css",
+    "main.css": "/clock/static/css/main.42a9787b.chunk.css",
     "main.js": "/clock/static/js/main.8747096d.chunk.js",
     "main.js.map": "/clock/static/js/main.8747096d.chunk.js.map",
     "runtime-main.js": "/clock/static/js/runtime-main.197edbe4.js",
@@ -8,14 +8,14 @@
     "static/js/2.208a1144.chunk.js": "/clock/static/js/2.208a1144.chunk.js",
     "static/js/2.208a1144.chunk.js.map": "/clock/static/js/2.208a1144.chunk.js.map",
     "index.html": "/clock/index.html",
-    "static/css/main.4c9d8af8.chunk.css.map": "/clock/static/css/main.4c9d8af8.chunk.css.map",
+    "static/css/main.42a9787b.chunk.css.map": "/clock/static/css/main.42a9787b.chunk.css.map",
     "static/js/2.208a1144.chunk.js.LICENSE.txt": "/clock/static/js/2.208a1144.chunk.js.LICENSE.txt",
     "static/media/arcade-climb_tone_001.847782d2.mp3": "/clock/static/media/arcade-climb_tone_001.847782d2.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.197edbe4.js",
     "static/js/2.208a1144.chunk.js",
-    "static/css/main.4c9d8af8.chunk.css",
+    "static/css/main.42a9787b.chunk.css",
     "static/js/main.8747096d.chunk.js"
   ]
 }
